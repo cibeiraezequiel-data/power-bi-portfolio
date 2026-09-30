@@ -7,6 +7,9 @@ This project presents a sales performance analysis developed in Power BI using M
 The dashboard provides an overview of sales, profitability, units sold, costs, products, countries, and customer segments.
 
 ## Dashboard Pages
+![Sales Performance Overview](sales_performance_overview.png)
+
+![Product Analysis](product_analysis.png)
 
 ### 1. Sales Performance Overview
 
