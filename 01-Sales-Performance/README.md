@@ -56,3 +56,7 @@ The project uses Microsoft's Financial Sample dataset.
 The dataset contains financial and sales information across products, countries, customer segments, and time periods.
 
 ## File
+The Power BI report is available in this repository:
+
+`Sales_Performance_Dashboard.pbix`
+
