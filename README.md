@@ -1,61 +1,33 @@
-# Sales Performance Dashboard
+# Power BI Portfolio
 
-## Overview
+Welcome to my Power BI portfolio.
 
-This project presents a sales performance analysis developed in Power BI using Microsoft's Financial Sample dataset.
+This repository contains a collection of data analysis and business intelligence projects developed using Power BI, DAX, and Excel.
 
-The dashboard provides an overview of sales, profitability, units sold, costs, products, countries, and customer segments.
+## Projects
 
-## Dashboard Pages
-![Sales Performance Overview](https://raw.githubusercontent.com/cibeiraezequiel-data/power-bi-portfolio/main/01-Sales-Performance/sales_performance_overview.png)
+### 01. Sales Performance Dashboard
 
-![Product Analysis](https://raw.githubusercontent.com/cibeiraezequiel-data/power-bi-portfolio/main/01-Sales-Performance/product_analysis.png)
-### 1. Sales Performance Overview
+Sales performance analysis covering revenue, profitability, products, countries, and business segments.
 
-The first page provides a general overview of business performance through:
+**Tools:** Power BI · DAX · Excel
 
-- Total sales
-- Total profit
-- Units sold
-- Profit margin
-- Cost of sales
-- Monthly sales trends
-- Sales by country
-- Sales by business segment
-- Sales vs. profit by segment
+[View project](./01-Sales-Performance)
 
-### 2. Product Analysis
+### 02. Financial Performance Dashboard
 
-The second page focuses on product performance, including:
+Financial analysis focused on revenue, costs, profitability, budget performance, sales channels, and customer satisfaction.
 
-- Sales by product
-- Profit by product
-- Sales by product and country
-- Product profitability analysis
+**Tools:** Power BI · DAX · Excel
 
-## Key Insights
+### 03. Video Game Market Analysis
 
-- Paseo was the highest-selling product, generating approximately 33 million in sales and 4.8 million in profit.
-- Carretera recorded the lowest sales and profit among the analyzed products.
-- Amarilla achieved the highest profit margin among the products, while Velo had the lowest.
-- Business performance varies considerably across customer segments and geographic markets.
+Analysis of the video game market, including sales by platform, genre, publisher, region, and individual titles.
 
-## Tools & Technologies
+**Tools:** Power BI · DAX · Excel
 
-- Power BI
-- DAX
-- Microsoft Excel
-- Data Visualization
-- Business Intelligence
+## About
 
-## Dataset
+This portfolio is part of my ongoing development in data analytics and data science.
 
-The project uses Microsoft's Financial Sample dataset.
-
-The dataset contains financial and sales information across products, countries, customer segments, and time periods.
-
-## File
-
-The Power BI report is available in this repository:
-
-`Sales_Performance_Dashboard.pbix`
+More projects will be added as I continue developing my skills in data analysis, visualization, and business intelligence.
