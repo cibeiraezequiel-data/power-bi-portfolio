@@ -20,6 +20,8 @@ Financial analysis focused on revenue, costs, profitability, budget performance,
 
 **Tools:** Power BI · DAX · Excel
 
+[View project](./02-Financial-Performance)
+
 ### 03. Video Game Market Analysis
 
 Analysis of the video game market, including sales by platform, genre, publisher, region, and individual titles.
