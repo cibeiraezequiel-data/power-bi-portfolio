@@ -8,6 +8,10 @@ The dashboard explores global sales, regional performance, platforms, genres, pu
 
 ## Dashboard Pages
 
+![Video Game Market Analysis](https://raw.githubusercontent.com/cibeiraezequiel-data/power-bi-portfolio/main/03-Video-Game-Market/video_game_market_analysis.png)
+
+![Video Game Analysis](https://raw.githubusercontent.com/cibeiraezequiel-data/power-bi-portfolio/main/03-Video-Game-Market/video_game_analysis.png)
+
 ### 1. Video Game Market Overview
 
 The first page provides a general overview of the market through:
