@@ -1,1 +1,60 @@
+# Financial Performance Dashboard
 
+## Overview
+
+This project presents a financial performance analysis developed in Power BI using the Global Finance & Sales Performance dataset.
+
+The dashboard provides an overview of revenue, costs, profitability, budget performance, sales channels, product categories, and customer satisfaction.
+
+## Dashboard Pages
+
+### 1. Financial Overview
+
+The first page provides a general overview of financial performance through:
+
+- Total revenue
+- Total profit
+- Profit margin
+- Budget performance
+- Costs
+- Monthly revenue and profit trends
+- Revenue by region
+- Revenue vs. budget by region
+- Profit by product category
+- Profit by region
+
+### 2. Profitability Analysis
+
+The second page focuses on profitability and commercial performance, including:
+
+- Revenue by sales channel
+- Profit by product category
+- Average discount vs. profit margin
+- Customer satisfaction by product category
+
+## Key Insights
+
+- Enterprise Software generated the highest profit among the analyzed product categories, while Hardware recorded the lowest.
+- Partner and Online channels generated the highest revenue, while Direct sales were slightly lower.
+- Customer satisfaction remained relatively consistent across product categories, with average scores around 4.2.
+- Overall financial performance shows a strong relationship between revenue generation and profitability across regions and product categories.
+
+## Tools & Technologies
+
+- Power BI
+- DAX
+- Microsoft Excel
+- Data Visualization
+- Business Intelligence
+
+## Dataset
+
+The project uses the Global Finance & Sales Performance dataset.
+
+The dataset contains financial, sales, regional, product, channel, discount, and customer satisfaction information.
+
+## File
+
+The Power BI report is available in this repository:
+
+`Financial_Performance_Dashboard.pbix`
