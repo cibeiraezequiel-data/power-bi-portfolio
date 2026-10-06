@@ -28,6 +28,8 @@ Analysis of the video game market, including sales by platform, genre, publisher
 
 **Tools:** Power BI · DAX · Excel
 
+[View project](./03-Video-Game-Market)
+
 ## About
 
 This portfolio is part of my ongoing development in data analytics and data science.
